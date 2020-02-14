@@ -1,0 +1,156 @@
+{
+	"fetched": 15,
+	"records": [
+		{
+			"attributes": {
+				"type": "User",
+				"url": "/services/data/v47.0/sobjects/User/005J0000007pudFIAQ"
+			},
+			"FirstName": "Viviane",
+			"LastName": "Boudin",
+			"Email": "vboudin.awtraining@example.com",
+			"Id": "005J0000007pudFIAQ"
+		},
+		{
+			"attributes": {
+				"type": "User",
+				"url": "/services/data/v47.0/sobjects/User/005J0000007vuSPIAY"
+			},
+			"FirstName": null,
+			"LastName": "Chatter Expert",
+			"Email": "noreply@chatter.salesforce.com",
+			"Id": "005J0000007vuSPIAY"
+		},
+		{
+			"attributes": {
+				"type": "User",
+				"url": "/services/data/v47.0/sobjects/User/005J0000007vuSQIAY"
+			},
+			"FirstName": null,
+			"LastName": "Data.com Clean",
+			"Email": "automatedclean@00dj0000003rharmak",
+			"Id": "005J0000007vuSQIAY"
+		},
+		{
+			"attributes": {
+				"type": "User",
+				"url": "/services/data/v47.0/sobjects/User/005J0000007pudCIAQ"
+			},
+			"FirstName": "Patrick",
+			"LastName": "Hughes",
+			"Email": "phughes.awtraining@example.com",
+			"Id": "005J0000007pudCIAQ"
+		},
+		{
+			"attributes": {
+				"type": "User",
+				"url": "/services/data/v47.0/sobjects/User/005J0000007pud8IAA"
+			},
+			"FirstName": "Akira",
+			"LastName": "Kato",
+			"Email": "akato.awtraining@example.com",
+			"Id": "005J0000007pud8IAA"
+		},
+		{
+			"attributes": {
+				"type": "User",
+				"url": "/services/data/v47.0/sobjects/User/005J0000007pudDIAQ"
+			},
+			"FirstName": "Raymond",
+			"LastName": "Montoya",
+			"Email": "rmontoya.awtraining@example.com",
+			"Id": "005J0000007pudDIAQ"
+		},
+		{
+			"attributes": {
+				"type": "User",
+				"url": "/services/data/v47.0/sobjects/User/005J0000007pud7IAA"
+			},
+			"FirstName": "Andres",
+			"LastName": "Perez",
+			"Email": "eltoroit.awtraining@example.com",
+			"Id": "005J0000007pud7IAA"
+		},
+		{
+			"attributes": {
+				"type": "User",
+				"url": "/services/data/v47.0/sobjects/User/005J0000007pud9IAA"
+			},
+			"FirstName": "Eugene",
+			"LastName": "Peters",
+			"Email": "epeters.awtraining@example.com",
+			"Id": "005J0000007pud9IAA"
+		},
+		{
+			"attributes": {
+				"type": "User",
+				"url": "/services/data/v47.0/sobjects/User/005J0000007vuSLIAY"
+			},
+			"FirstName": "Automated",
+			"LastName": "Process",
+			"Email": "autoproc@00dj0000003rharmak",
+			"Id": "005J0000007vuSLIAY"
+		},
+		{
+			"attributes": {
+				"type": "User",
+				"url": "/services/data/v47.0/sobjects/User/005J0000007pudAIAQ"
+			},
+			"FirstName": "Heidi",
+			"LastName": "Rosen",
+			"Email": "hrosen.awtraining@example.com",
+			"Id": "005J0000007pudAIAQ"
+		},
+		{
+			"attributes": {
+				"type": "User",
+				"url": "/services/data/v47.0/sobjects/User/005J0000007pudBIAQ"
+			},
+			"FirstName": "Kim",
+			"LastName": "Tran",
+			"Email": "ktran.awtraining@example.com",
+			"Id": "005J0000007pudBIAQ"
+		},
+		{
+			"attributes": {
+				"type": "User",
+				"url": "/services/data/v47.0/sobjects/User/005J0000007ptnQIAQ"
+			},
+			"FirstName": "User",
+			"LastName": "User",
+			"Email": "samfizor@gmail.com",
+			"Id": "005J0000007ptnQIAQ"
+		},
+		{
+			"attributes": {
+				"type": "User",
+				"url": "/services/data/v47.0/sobjects/User/005J0000007vuSOIAY"
+			},
+			"FirstName": "Security",
+			"LastName": "User",
+			"Email": "insightssecurity@example.com",
+			"Id": "005J0000007vuSOIAY"
+		},
+		{
+			"attributes": {
+				"type": "User",
+				"url": "/services/data/v47.0/sobjects/User/005J0000007vuSKIAY"
+			},
+			"FirstName": "Integration",
+			"LastName": "User",
+			"Email": "integration@example.com",
+			"Id": "005J0000007vuSKIAY"
+		},
+		{
+			"attributes": {
+				"type": "User",
+				"url": "/services/data/v47.0/sobjects/User/005J0000007pudEIAQ"
+			},
+			"FirstName": "Sasha",
+			"LastName": "Vincent",
+			"Email": "svincent.awtraining@example.com",
+			"Id": "005J0000007pudEIAQ"
+		}
+	],
+	"total": 15
+}
