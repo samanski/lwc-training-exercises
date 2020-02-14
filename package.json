@@ -1,0 +1,15 @@
+{
+  "name": "lwc_exercises",
+  "version": "1.0.0",
+  "description": "LWC Training Exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Sam Fizor",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "1.19.1",
+    "prettier-plugin-apex": "1.2.0"
+  }
+}
