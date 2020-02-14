@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customApplications>
+        <label><!-- Certification --></label>
+        <name>Certification_Classic</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- Certification --></label>
+        <name>Certification_Lightning</name>
+    </customApplications>
+    <customLabels>
+        <label>Esta funcionalidad no está disponible actualmente.</label>
+        <name>Feature_Not_Available</name>
+    </customLabels>
+    <customTabs>
+        <label><!-- AwInstructors --></label>
+        <name>AwInstructors</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- AwInstructors Cmp Tab --></label>
+        <name>AwInstructors_Cmp_Tab</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Deliveries Map --></label>
+        <name>Deliveries_Map</name>
+    </customTabs>
+    <quickActions>
+        <label><!-- Delivery List Action --></label>
+        <name>Delivery_List_Action</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- LogACall --></label>
+        <name>LogACall</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewAccount --></label>
+        <name>NewAccount</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewCase --></label>
+        <name>NewCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewContact --></label>
+        <name>NewContact</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewEvent --></label>
+        <name>NewEvent</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewGroup --></label>
+        <name>NewGroup</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewLead --></label>
+        <name>NewLead</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewNote --></label>
+        <name>NewNote</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewOpportunity --></label>
+        <name>NewOpportunity</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewTask --></label>
+        <name>NewTask</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SendEmail --></label>
+        <name>SendEmail</name>
+    </quickActions>
+</Translations>
