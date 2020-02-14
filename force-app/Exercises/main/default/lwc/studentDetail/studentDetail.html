@@ -1,0 +1,24 @@
+<template>
+    <lightning-card  if:true={studentId} title={name}>
+
+        <lightning-button label="Go to Record" slot="actions" onclick={goToRecordPage}></lightning-button>
+        
+        <lightning-layout horizontal-align="left" multiple-rows="true">
+            <lightning-layout-item padding="around-small">
+                <lightning-layout-item size="12">
+                    <p><lightning-formatted-email value={email}></lightning-formatted-email></p>
+                </lightning-layout-item>
+    
+                <lightning-layout-item size="12">
+                    <p><lightning-formatted-phone value={phone}></lightning-formatted-phone></p>
+                </lightning-layout-item>
+                
+                <lightning-layout-item size="12">
+                    <p>{description}</p>
+                </lightning-layout-item>
+            </lightning-layout-item>
+            
+        </lightning-layout>
+
+    </lightning-card>    
+</template>

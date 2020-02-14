@@ -1,0 +1,77 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {
+            "c/awNavigation": [
+                "awNavigation/awNavigation.js"
+            ],
+            "c/certPopularity": [
+                "certPopularity/certPopularity.js"
+            ],
+            "c/certifiedStudentList": [
+                "certifiedStudentList/certifiedStudentList.js"
+            ],
+            "c/courseAttendee": [
+                "courseAttendee/courseAttendee.js"
+            ],
+            "c/deliveryDetailMap": [
+                "deliveryDetailMap/deliveryDetailMap.js"
+            ],
+            "c/deliveryListMap": [
+                "deliveryListMap/deliveryListMap.js"
+            ],
+            "c/layoutManager": [
+                "layoutManager/layoutManager.js"
+            ],
+            "c/modal": [
+                "modal/modal.js"
+            ],
+            "c/pubsub": [
+                "pubsub/pubsub.js"
+            ],
+            "c/responsiveDatatable": [
+                "responsiveDatatable/responsiveDatatable.js"
+            ],
+            "c/studentBrowser": [
+                "studentBrowser/studentBrowser.js"
+            ],
+            "c/studentBrowserForm": [
+                "studentBrowserForm/studentBrowserForm.js"
+            ],
+            "c/studentDetail": [
+                "studentDetail/studentDetail.js"
+            ],
+            "c/studentTile": [
+                "studentTile/studentTile.js"
+            ],
+            "c/studentTiles": [
+                "studentTiles/studentTiles.js"
+            ],
+            "c/tripReportBrowser": [
+                "tripReportBrowser/tripReportBrowser.js"
+            ],
+            "c/tripReportForm": [
+                "tripReportForm/tripReportForm.js"
+            ],
+            "c/tripReportFormAdvanced": [
+                "tripReportFormAdvanced/tripReportFormAdvanced.js"
+            ],
+            "c/tripReports": [
+                "tripReports/tripReports.js"
+            ],
+            "c/utils": [
+                "utils/utils.js"
+            ]
+        }
+    },
+    "include": [
+        "**/*",
+        "../../../../../.sfdx/typings/lwc/**/*.d.ts"
+    ],
+    "typeAcquisition": {
+        "include": [
+            "jest"
+        ]
+    }
+}
